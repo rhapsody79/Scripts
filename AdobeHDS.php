@@ -1,4 +1,5 @@
-<?php
+<?php GET https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-6702025-17&cid=138931407.1456109141&jid=1794172212&_v=j41&z=2136306944 [HTTP/2.0 200 OK 142ms]
+
   define('AUDIO', 0x08);
   define('VIDEO', 0x09);
   define('AKAMAI_ENC_AUDIO', 0x0A);
