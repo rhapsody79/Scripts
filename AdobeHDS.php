@@ -1,4 +1,6 @@
-<?php
+<?php AdobeHDS.php --delete --manifest http://flacvcms-f.akamaihd.net/z/video/FLAC_FOD_LATAM/85/11/FOX_Fit_1_OK,.,__513641.,__363475.,__148033.,__480208.,__870848.,mp4.csmil/manifest.f4m?hdnea=st=1456099336~exp=1456099726~acl=/z/video/FLAC_FOD_LATAM/85/11/FOX_Fit_1_OK*~id=1310d658-dba4-47a4-a2e2-e2dce506c8ad~hmac=86a098169a2c1c64ea4e2675ddb9fc4d1322e17a7f8b5ce1faf4d2bde3d16a25
+KSV Adobe HDS Downloader
+
   define('AUDIO', 0x08);
   define('VIDEO', 0x09);
   define('AKAMAI_ENC_AUDIO', 0x0A);
